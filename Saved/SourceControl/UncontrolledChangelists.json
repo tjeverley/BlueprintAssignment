@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/FirstPerson/Maps/MainMenu.umap",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/FirstPerson/Input/Actions/IA_Pause.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/UI/Menus/WB_SettingsMenu.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/UI/Menus/WB_PauseMenu.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/UI/Menus/WB_MainMenu.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/UI/Menus/WB_SaveMenu.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/UI/Menus/WB_LoadMenu.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/UI/HUD/WB_PlayUI.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/Saves/BP_SaveGame.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/Saves/BP_GameInstance.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/FirstPerson/Input/Actions/IA_NewPause.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/FirstPerson/Blueprints/BP_Distractor_Component.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/FirstPerson/Blueprints/BP_Distractor.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/FirstPerson/Input/Actions/IA_Distract.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/FirstPerson/Input/IMC_Default.uasset",
+				"G:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/UI/Menus/WB_PauseMenu.uasset",
+				"G:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/FirstPerson/Input/Actions/IA_Pause.uasset",
+				"G:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/FirstPerson/Input/IMC_Default.uasset",
+				"G:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"G:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/UI/WB_PlayUI.uasset",
+				"G:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/UI/HUD/Sprites/snowflake.uasset",
+				"G:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/UI/Sprites/snowflake.uasset",
+				"G:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"G:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/UI/HUD/WB_PlayUI.uasset",
+				"G:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/UI/Menus/WB_MainMenu.uasset",
+				"G:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/UI/Font/FrozenTide-Regular_Final_Font.uasset",
+				"G:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/FirstPerson/Maps/MainMenu.umap",
+				"G:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/UI/Font/FrozenTide-Regular_Final.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/UI/WB_PlayUI.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/UI/Sprites/snowflake.uasset",
+				"F:/GAMR2532_Progressive Game Engines/Unit 2/Assignment/BlueprintAssignment/Content/Blueprints/BP_Custom_GameMode.uasset"
+			]
+		}
+	]
+}
